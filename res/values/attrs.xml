@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <declare-styleable name="QuarterLayout">
+    <attr name="orientation" format="string"></attr>
+  </declare-styleable>
+  
+  
+  <declare-styleable name="QuarterLayout_LayoutParams">
+      <attr name="item_weight" format="integer"></attr>
+  </declare-styleable>
+  
+</resources>
+
